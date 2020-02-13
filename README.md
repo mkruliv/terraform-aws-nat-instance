@@ -26,7 +26,7 @@ module "nat_instance" {
 
 ## Examples
 
-* [Basic EC2 instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/tree/master/examples/basic)
+* [EC2 NAT instance](https://github.com/mkruliv/terraform-aws-nat-instance/tree/master/example)
 
 ## Notes
 
